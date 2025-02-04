@@ -7,6 +7,10 @@
     list-style-type: none;
     font-family: "Inter",sans-serif;
 }
+html {
+    scroll-behavior: smooth;
+}
+
 
 :root {
     --main_color : #c9f31d;
@@ -82,6 +86,7 @@ p{
 .top_section{
     text-align: center;
     margin-bottom: 50px;
+    margin-top: 20px;
 }
 
 .top_section h2{
